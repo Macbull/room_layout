@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.eggs/
+*.egg-info/
+sandbox/
+output/
+logs*/
+
+*.egg
+*.pyc
+*.log
+*.avi
